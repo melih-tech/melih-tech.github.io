@@ -1,0 +1,1251 @@
+{
+ "version": 1,
+ "baskets": [
+  {
+   "id": "en-tr-first-steps",
+   "emoji": "🎁",
+   "name": {
+    "tr": "İlk Adımlar",
+    "en": "First Steps"
+   },
+   "description": {
+    "tr": "Selamlaşma ve en temel günlük kelimeler.",
+    "en": "Greetings and the most basic everyday words."
+   },
+   "level": "A1",
+   "termLanguage": "en-US",
+   "definitionLanguage": "tr-TR",
+   "price": 0,
+   "words": [
+    {
+     "term": "hello",
+     "definition": "merhaba"
+    },
+    {
+     "term": "goodbye",
+     "definition": "hoşça kal"
+    },
+    {
+     "term": "please",
+     "definition": "lütfen"
+    },
+    {
+     "term": "thank you",
+     "definition": "teşekkür ederim"
+    },
+    {
+     "term": "yes",
+     "definition": "evet"
+    },
+    {
+     "term": "no",
+     "definition": "hayır"
+    },
+    {
+     "term": "sorry",
+     "definition": "özür dilerim"
+    },
+    {
+     "term": "excuse me",
+     "definition": "affedersiniz"
+    },
+    {
+     "term": "good",
+     "definition": "iyi"
+    },
+    {
+     "term": "bad",
+     "definition": "kötü"
+    },
+    {
+     "term": "friend",
+     "definition": "arkadaş"
+    },
+    {
+     "term": "family",
+     "definition": "aile"
+    },
+    {
+     "term": "name",
+     "definition": "isim"
+    },
+    {
+     "term": "water",
+     "definition": "su"
+    },
+    {
+     "term": "today",
+     "definition": "bugün"
+    },
+    {
+     "term": "tomorrow",
+     "definition": "yarın"
+    },
+    {
+     "term": "yesterday",
+     "definition": "dün"
+    },
+    {
+     "term": "morning",
+     "definition": "sabah"
+    },
+    {
+     "term": "night",
+     "definition": "gece"
+    },
+    {
+     "term": "day",
+     "definition": "gün"
+    },
+    {
+     "term": "week",
+     "definition": "hafta"
+    },
+    {
+     "term": "year",
+     "definition": "yıl"
+    },
+    {
+     "term": "big",
+     "definition": "büyük"
+    },
+    {
+     "term": "small",
+     "definition": "küçük"
+    },
+    {
+     "term": "new",
+     "definition": "yeni"
+    },
+    {
+     "term": "old",
+     "definition": "eski"
+    },
+    {
+     "term": "happy",
+     "definition": "mutlu"
+    },
+    {
+     "term": "sad",
+     "definition": "üzgün"
+    },
+    {
+     "term": "man",
+     "definition": "adam"
+    },
+    {
+     "term": "woman",
+     "definition": "kadın"
+    }
+   ]
+  },
+  {
+   "id": "en-tr-food",
+   "emoji": "🍎",
+   "name": {
+    "tr": "Yiyecek ve İçecek",
+    "en": "Food & Drink"
+   },
+   "description": {
+    "tr": "Mutfakta, markette ve restoranda gereken kelimeler.",
+    "en": "Words for the kitchen, the market and restaurants."
+   },
+   "level": "A1",
+   "termLanguage": "en-US",
+   "definitionLanguage": "tr-TR",
+   "price": 40,
+   "words": [
+    {
+     "term": "apple",
+     "definition": "elma"
+    },
+    {
+     "term": "bread",
+     "definition": "ekmek"
+    },
+    {
+     "term": "cheese",
+     "definition": "peynir"
+    },
+    {
+     "term": "egg",
+     "definition": "yumurta"
+    },
+    {
+     "term": "milk",
+     "definition": "süt"
+    },
+    {
+     "term": "butter",
+     "definition": "tereyağı"
+    },
+    {
+     "term": "honey",
+     "definition": "bal"
+    },
+    {
+     "term": "meat",
+     "definition": "et"
+    },
+    {
+     "term": "chicken",
+     "definition": "tavuk"
+    },
+    {
+     "term": "fish",
+     "definition": "balık"
+    },
+    {
+     "term": "rice",
+     "definition": "pirinç"
+    },
+    {
+     "term": "pasta",
+     "definition": "makarna"
+    },
+    {
+     "term": "soup",
+     "definition": "çorba"
+    },
+    {
+     "term": "salad",
+     "definition": "salata"
+    },
+    {
+     "term": "tomato",
+     "definition": "domates"
+    },
+    {
+     "term": "potato",
+     "definition": "patates"
+    },
+    {
+     "term": "onion",
+     "definition": "soğan"
+    },
+    {
+     "term": "garlic",
+     "definition": "sarımsak"
+    },
+    {
+     "term": "carrot",
+     "definition": "havuç"
+    },
+    {
+     "term": "cucumber",
+     "definition": "salatalık"
+    },
+    {
+     "term": "pepper",
+     "definition": "biber"
+    },
+    {
+     "term": "lemon",
+     "definition": "limon"
+    },
+    {
+     "term": "orange",
+     "definition": "portakal"
+    },
+    {
+     "term": "banana",
+     "definition": "muz"
+    },
+    {
+     "term": "strawberry",
+     "definition": "çilek"
+    },
+    {
+     "term": "grape",
+     "definition": "üzüm"
+    },
+    {
+     "term": "watermelon",
+     "definition": "karpuz"
+    },
+    {
+     "term": "sugar",
+     "definition": "şeker"
+    },
+    {
+     "term": "salt",
+     "definition": "tuz"
+    },
+    {
+     "term": "coffee",
+     "definition": "kahve"
+    },
+    {
+     "term": "tea",
+     "definition": "çay"
+    },
+    {
+     "term": "juice",
+     "definition": "meyve suyu"
+    },
+    {
+     "term": "breakfast",
+     "definition": "kahvaltı"
+    },
+    {
+     "term": "lunch",
+     "definition": "öğle yemeği"
+    },
+    {
+     "term": "dinner",
+     "definition": "akşam yemeği"
+    },
+    {
+     "term": "dessert",
+     "definition": "tatlı"
+    },
+    {
+     "term": "delicious",
+     "definition": "lezzetli"
+    },
+    {
+     "term": "hungry",
+     "definition": "aç"
+    },
+    {
+     "term": "thirsty",
+     "definition": "susamış"
+    },
+    {
+     "term": "bill",
+     "definition": "hesap"
+    }
+   ]
+  },
+  {
+   "id": "en-tr-home",
+   "emoji": "🏠",
+   "name": {
+    "tr": "Ev ve Günlük Hayat",
+    "en": "Home & Daily Life"
+   },
+   "description": {
+    "tr": "Evin bölümleri, eşyalar ve günlük işler.",
+    "en": "Rooms, household items and daily chores."
+   },
+   "level": "A1",
+   "termLanguage": "en-US",
+   "definitionLanguage": "tr-TR",
+   "price": 40,
+   "words": [
+    {
+     "term": "house",
+     "definition": "ev"
+    },
+    {
+     "term": "kitchen",
+     "definition": "mutfak"
+    },
+    {
+     "term": "bedroom",
+     "definition": "yatak odası"
+    },
+    {
+     "term": "bathroom",
+     "definition": "banyo"
+    },
+    {
+     "term": "living room",
+     "definition": "oturma odası"
+    },
+    {
+     "term": "door",
+     "definition": "kapı"
+    },
+    {
+     "term": "window",
+     "definition": "pencere"
+    },
+    {
+     "term": "wall",
+     "definition": "duvar"
+    },
+    {
+     "term": "floor",
+     "definition": "zemin"
+    },
+    {
+     "term": "ceiling",
+     "definition": "tavan"
+    },
+    {
+     "term": "stairs",
+     "definition": "merdiven"
+    },
+    {
+     "term": "roof",
+     "definition": "çatı"
+    },
+    {
+     "term": "garden",
+     "definition": "bahçe"
+    },
+    {
+     "term": "table",
+     "definition": "masa"
+    },
+    {
+     "term": "chair",
+     "definition": "sandalye"
+    },
+    {
+     "term": "bed",
+     "definition": "yatak"
+    },
+    {
+     "term": "sofa",
+     "definition": "kanepe"
+    },
+    {
+     "term": "wardrobe",
+     "definition": "gardırop"
+    },
+    {
+     "term": "mirror",
+     "definition": "ayna"
+    },
+    {
+     "term": "lamp",
+     "definition": "lamba"
+    },
+    {
+     "term": "fridge",
+     "definition": "buzdolabı"
+    },
+    {
+     "term": "oven",
+     "definition": "fırın"
+    },
+    {
+     "term": "sink",
+     "definition": "lavabo"
+    },
+    {
+     "term": "towel",
+     "definition": "havlu"
+    },
+    {
+     "term": "soap",
+     "definition": "sabun"
+    },
+    {
+     "term": "toothbrush",
+     "definition": "diş fırçası"
+    },
+    {
+     "term": "pillow",
+     "definition": "yastık"
+    },
+    {
+     "term": "blanket",
+     "definition": "battaniye"
+    },
+    {
+     "term": "plate",
+     "definition": "tabak"
+    },
+    {
+     "term": "glass",
+     "definition": "bardak"
+    },
+    {
+     "term": "fork",
+     "definition": "çatal"
+    },
+    {
+     "term": "spoon",
+     "definition": "kaşık"
+    },
+    {
+     "term": "knife",
+     "definition": "bıçak"
+    },
+    {
+     "term": "cup",
+     "definition": "fincan"
+    },
+    {
+     "term": "to clean",
+     "definition": "temizlemek"
+    },
+    {
+     "term": "to cook",
+     "definition": "yemek pişirmek"
+    },
+    {
+     "term": "to wash",
+     "definition": "yıkamak"
+    },
+    {
+     "term": "to sleep",
+     "definition": "uyumak"
+    },
+    {
+     "term": "to wake up",
+     "definition": "uyanmak"
+    },
+    {
+     "term": "neighbor",
+     "definition": "komşu"
+    }
+   ]
+  },
+  {
+   "id": "en-tr-travel",
+   "emoji": "✈️",
+   "name": {
+    "tr": "Seyahat",
+    "en": "Travel"
+   },
+   "description": {
+    "tr": "Havalimanı, otel ve şehirde yol bulma.",
+    "en": "Airports, hotels and finding your way around town."
+   },
+   "level": "A2",
+   "termLanguage": "en-US",
+   "definitionLanguage": "tr-TR",
+   "price": 50,
+   "words": [
+    {
+     "term": "airport",
+     "definition": "havalimanı"
+    },
+    {
+     "term": "flight",
+     "definition": "uçuş"
+    },
+    {
+     "term": "passport",
+     "definition": "pasaport"
+    },
+    {
+     "term": "ticket",
+     "definition": "bilet"
+    },
+    {
+     "term": "luggage",
+     "definition": "bagaj"
+    },
+    {
+     "term": "suitcase",
+     "definition": "bavul"
+    },
+    {
+     "term": "boarding pass",
+     "definition": "biniş kartı"
+    },
+    {
+     "term": "departure",
+     "definition": "kalkış"
+    },
+    {
+     "term": "arrival",
+     "definition": "varış"
+    },
+    {
+     "term": "delay",
+     "definition": "rötar"
+    },
+    {
+     "term": "gate",
+     "definition": "kapı (havalimanı)"
+    },
+    {
+     "term": "seat",
+     "definition": "koltuk"
+    },
+    {
+     "term": "aisle",
+     "definition": "koridor"
+    },
+    {
+     "term": "hotel",
+     "definition": "otel"
+    },
+    {
+     "term": "reservation",
+     "definition": "rezervasyon"
+    },
+    {
+     "term": "room",
+     "definition": "oda"
+    },
+    {
+     "term": "key",
+     "definition": "anahtar"
+    },
+    {
+     "term": "reception",
+     "definition": "resepsiyon"
+    },
+    {
+     "term": "map",
+     "definition": "harita"
+    },
+    {
+     "term": "station",
+     "definition": "istasyon"
+    },
+    {
+     "term": "train",
+     "definition": "tren"
+    },
+    {
+     "term": "bus",
+     "definition": "otobüs"
+    },
+    {
+     "term": "taxi",
+     "definition": "taksi"
+    },
+    {
+     "term": "ferry",
+     "definition": "feribot"
+    },
+    {
+     "term": "platform",
+     "definition": "peron"
+    },
+    {
+     "term": "left",
+     "definition": "sol"
+    },
+    {
+     "term": "right",
+     "definition": "sağ"
+    },
+    {
+     "term": "straight ahead",
+     "definition": "dümdüz ileri"
+    },
+    {
+     "term": "near",
+     "definition": "yakın"
+    },
+    {
+     "term": "far",
+     "definition": "uzak"
+    },
+    {
+     "term": "museum",
+     "definition": "müze"
+    },
+    {
+     "term": "beach",
+     "definition": "plaj"
+    },
+    {
+     "term": "souvenir",
+     "definition": "hediyelik eşya"
+    },
+    {
+     "term": "currency",
+     "definition": "para birimi"
+    },
+    {
+     "term": "exchange rate",
+     "definition": "döviz kuru"
+    },
+    {
+     "term": "customs",
+     "definition": "gümrük"
+    },
+    {
+     "term": "visa",
+     "definition": "vize"
+    },
+    {
+     "term": "tourist",
+     "definition": "turist"
+    },
+    {
+     "term": "guide",
+     "definition": "rehber"
+    },
+    {
+     "term": "sightseeing",
+     "definition": "gezip görme"
+    }
+   ]
+  },
+  {
+   "id": "en-tr-verbs",
+   "emoji": "🗣️",
+   "name": {
+    "tr": "En Sık 50 Fiil",
+    "en": "Top 50 Verbs"
+   },
+   "description": {
+    "tr": "İngilizcede en çok kullanılan 50 fiil.",
+    "en": "The 50 most common English verbs."
+   },
+   "level": "A2",
+   "termLanguage": "en-US",
+   "definitionLanguage": "tr-TR",
+   "price": 60,
+   "words": [
+    {
+     "term": "be",
+     "definition": "olmak"
+    },
+    {
+     "term": "have",
+     "definition": "sahip olmak"
+    },
+    {
+     "term": "do",
+     "definition": "yapmak"
+    },
+    {
+     "term": "say",
+     "definition": "söylemek"
+    },
+    {
+     "term": "go",
+     "definition": "gitmek"
+    },
+    {
+     "term": "get",
+     "definition": "almak, elde etmek"
+    },
+    {
+     "term": "make",
+     "definition": "yapmak, üretmek"
+    },
+    {
+     "term": "know",
+     "definition": "bilmek"
+    },
+    {
+     "term": "think",
+     "definition": "düşünmek"
+    },
+    {
+     "term": "take",
+     "definition": "almak, götürmek"
+    },
+    {
+     "term": "see",
+     "definition": "görmek"
+    },
+    {
+     "term": "come",
+     "definition": "gelmek"
+    },
+    {
+     "term": "want",
+     "definition": "istemek"
+    },
+    {
+     "term": "look",
+     "definition": "bakmak"
+    },
+    {
+     "term": "use",
+     "definition": "kullanmak"
+    },
+    {
+     "term": "find",
+     "definition": "bulmak"
+    },
+    {
+     "term": "give",
+     "definition": "vermek"
+    },
+    {
+     "term": "tell",
+     "definition": "anlatmak"
+    },
+    {
+     "term": "work",
+     "definition": "çalışmak"
+    },
+    {
+     "term": "call",
+     "definition": "aramak, çağırmak"
+    },
+    {
+     "term": "try",
+     "definition": "denemek"
+    },
+    {
+     "term": "ask",
+     "definition": "sormak"
+    },
+    {
+     "term": "need",
+     "definition": "ihtiyaç duymak"
+    },
+    {
+     "term": "feel",
+     "definition": "hissetmek"
+    },
+    {
+     "term": "become",
+     "definition": "haline gelmek"
+    },
+    {
+     "term": "leave",
+     "definition": "ayrılmak, bırakmak"
+    },
+    {
+     "term": "put",
+     "definition": "koymak"
+    },
+    {
+     "term": "mean",
+     "definition": "anlamına gelmek"
+    },
+    {
+     "term": "keep",
+     "definition": "tutmak, saklamak"
+    },
+    {
+     "term": "let",
+     "definition": "izin vermek"
+    },
+    {
+     "term": "begin",
+     "definition": "başlamak"
+    },
+    {
+     "term": "seem",
+     "definition": "gibi görünmek"
+    },
+    {
+     "term": "help",
+     "definition": "yardım etmek"
+    },
+    {
+     "term": "talk",
+     "definition": "konuşmak"
+    },
+    {
+     "term": "turn",
+     "definition": "dönmek, çevirmek"
+    },
+    {
+     "term": "start",
+     "definition": "başlatmak"
+    },
+    {
+     "term": "show",
+     "definition": "göstermek"
+    },
+    {
+     "term": "hear",
+     "definition": "duymak"
+    },
+    {
+     "term": "play",
+     "definition": "oynamak"
+    },
+    {
+     "term": "run",
+     "definition": "koşmak"
+    },
+    {
+     "term": "move",
+     "definition": "hareket etmek, taşınmak"
+    },
+    {
+     "term": "live",
+     "definition": "yaşamak"
+    },
+    {
+     "term": "believe",
+     "definition": "inanmak"
+    },
+    {
+     "term": "bring",
+     "definition": "getirmek"
+    },
+    {
+     "term": "happen",
+     "definition": "olmak, meydana gelmek"
+    },
+    {
+     "term": "write",
+     "definition": "yazmak"
+    },
+    {
+     "term": "sit",
+     "definition": "oturmak"
+    },
+    {
+     "term": "stand",
+     "definition": "ayakta durmak"
+    },
+    {
+     "term": "lose",
+     "definition": "kaybetmek"
+    },
+    {
+     "term": "pay",
+     "definition": "ödemek"
+    }
+   ]
+  },
+  {
+   "id": "en-tr-business",
+   "emoji": "💼",
+   "name": {
+    "tr": "İş İngilizcesi",
+    "en": "Business English"
+   },
+   "description": {
+    "tr": "Ofis, toplantı ve iş yazışmalarının temel kelimeleri.",
+    "en": "Key words for the office, meetings and business email."
+   },
+   "level": "B1",
+   "termLanguage": "en-US",
+   "definitionLanguage": "tr-TR",
+   "price": 80,
+   "words": [
+    {
+     "term": "meeting",
+     "definition": "toplantı"
+    },
+    {
+     "term": "deadline",
+     "definition": "son teslim tarihi"
+    },
+    {
+     "term": "schedule",
+     "definition": "program, takvim"
+    },
+    {
+     "term": "agenda",
+     "definition": "gündem"
+    },
+    {
+     "term": "colleague",
+     "definition": "iş arkadaşı"
+    },
+    {
+     "term": "manager",
+     "definition": "yönetici"
+    },
+    {
+     "term": "employee",
+     "definition": "çalışan"
+    },
+    {
+     "term": "employer",
+     "definition": "işveren"
+    },
+    {
+     "term": "salary",
+     "definition": "maaş"
+    },
+    {
+     "term": "contract",
+     "definition": "sözleşme"
+    },
+    {
+     "term": "invoice",
+     "definition": "fatura"
+    },
+    {
+     "term": "budget",
+     "definition": "bütçe"
+    },
+    {
+     "term": "profit",
+     "definition": "kâr"
+    },
+    {
+     "term": "loss",
+     "definition": "zarar"
+    },
+    {
+     "term": "revenue",
+     "definition": "gelir, ciro"
+    },
+    {
+     "term": "customer",
+     "definition": "müşteri"
+    },
+    {
+     "term": "supplier",
+     "definition": "tedarikçi"
+    },
+    {
+     "term": "negotiation",
+     "definition": "müzakere"
+    },
+    {
+     "term": "proposal",
+     "definition": "teklif"
+    },
+    {
+     "term": "presentation",
+     "definition": "sunum"
+    },
+    {
+     "term": "report",
+     "definition": "rapor"
+    },
+    {
+     "term": "department",
+     "definition": "departman"
+    },
+    {
+     "term": "headquarters",
+     "definition": "genel merkez"
+    },
+    {
+     "term": "branch",
+     "definition": "şube"
+    },
+    {
+     "term": "job interview",
+     "definition": "iş görüşmesi"
+    },
+    {
+     "term": "resume",
+     "definition": "özgeçmiş"
+    },
+    {
+     "term": "promotion",
+     "definition": "terfi"
+    },
+    {
+     "term": "resignation",
+     "definition": "istifa"
+    },
+    {
+     "term": "appointment",
+     "definition": "randevu"
+    },
+    {
+     "term": "attachment",
+     "definition": "ek dosya"
+    },
+    {
+     "term": "feedback",
+     "definition": "geri bildirim"
+    },
+    {
+     "term": "goal",
+     "definition": "hedef"
+    },
+    {
+     "term": "strategy",
+     "definition": "strateji"
+    },
+    {
+     "term": "market",
+     "definition": "pazar"
+    },
+    {
+     "term": "investment",
+     "definition": "yatırım"
+    },
+    {
+     "term": "shareholder",
+     "definition": "hissedar"
+    },
+    {
+     "term": "to launch",
+     "definition": "piyasaya sürmek"
+    },
+    {
+     "term": "to hire",
+     "definition": "işe almak"
+    },
+    {
+     "term": "to fire",
+     "definition": "işten çıkarmak"
+    },
+    {
+     "term": "overtime",
+     "definition": "fazla mesai"
+    }
+   ]
+  },
+  {
+   "id": "en-tr-academic",
+   "emoji": "🎓",
+   "name": {
+    "tr": "Akademik Kelimeler",
+    "en": "Academic Words"
+   },
+   "description": {
+    "tr": "IELTS, TOEFL ve YDS için sık çıkan akademik kelimeler.",
+    "en": "Frequent academic words for IELTS, TOEFL and university."
+   },
+   "level": "B2",
+   "termLanguage": "en-US",
+   "definitionLanguage": "tr-TR",
+   "price": 100,
+   "words": [
+    {
+     "term": "analyze",
+     "definition": "analiz etmek"
+    },
+    {
+     "term": "approach",
+     "definition": "yaklaşım"
+    },
+    {
+     "term": "assess",
+     "definition": "değerlendirmek"
+    },
+    {
+     "term": "assume",
+     "definition": "varsaymak"
+    },
+    {
+     "term": "benefit",
+     "definition": "fayda"
+    },
+    {
+     "term": "concept",
+     "definition": "kavram"
+    },
+    {
+     "term": "consistent",
+     "definition": "tutarlı"
+    },
+    {
+     "term": "constitute",
+     "definition": "oluşturmak"
+    },
+    {
+     "term": "context",
+     "definition": "bağlam"
+    },
+    {
+     "term": "data",
+     "definition": "veri"
+    },
+    {
+     "term": "define",
+     "definition": "tanımlamak"
+    },
+    {
+     "term": "derive",
+     "definition": "türetmek"
+    },
+    {
+     "term": "distribute",
+     "definition": "dağıtmak"
+    },
+    {
+     "term": "environment",
+     "definition": "çevre, ortam"
+    },
+    {
+     "term": "establish",
+     "definition": "kurmak"
+    },
+    {
+     "term": "estimate",
+     "definition": "tahmin etmek"
+    },
+    {
+     "term": "evidence",
+     "definition": "kanıt"
+    },
+    {
+     "term": "factor",
+     "definition": "etken"
+    },
+    {
+     "term": "function",
+     "definition": "işlev"
+    },
+    {
+     "term": "identify",
+     "definition": "belirlemek"
+    },
+    {
+     "term": "indicate",
+     "definition": "işaret etmek"
+    },
+    {
+     "term": "interpret",
+     "definition": "yorumlamak"
+    },
+    {
+     "term": "involve",
+     "definition": "içermek"
+    },
+    {
+     "term": "issue",
+     "definition": "mesele, sorun"
+    },
+    {
+     "term": "method",
+     "definition": "yöntem"
+    },
+    {
+     "term": "occur",
+     "definition": "meydana gelmek"
+    },
+    {
+     "term": "principle",
+     "definition": "ilke"
+    },
+    {
+     "term": "process",
+     "definition": "süreç"
+    },
+    {
+     "term": "require",
+     "definition": "gerektirmek"
+    },
+    {
+     "term": "research",
+     "definition": "araştırma"
+    },
+    {
+     "term": "significant",
+     "definition": "önemli, kayda değer"
+    },
+    {
+     "term": "similar",
+     "definition": "benzer"
+    },
+    {
+     "term": "source",
+     "definition": "kaynak"
+    },
+    {
+     "term": "specific",
+     "definition": "belirli"
+    },
+    {
+     "term": "structure",
+     "definition": "yapı"
+    },
+    {
+     "term": "theory",
+     "definition": "kuram"
+    },
+    {
+     "term": "variable",
+     "definition": "değişken"
+    },
+    {
+     "term": "hypothesis",
+     "definition": "hipotez"
+    },
+    {
+     "term": "conclude",
+     "definition": "sonuca varmak"
+    },
+    {
+     "term": "emphasize",
+     "definition": "vurgulamak"
+    }
+   ]
+  }
+ ]
+}
